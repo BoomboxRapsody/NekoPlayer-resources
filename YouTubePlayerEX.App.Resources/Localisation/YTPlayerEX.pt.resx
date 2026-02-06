@@ -59,189 +59,189 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="aspect_ratio_method" xml:space="preserve">
-    <value>Aspect ratio method</value>
+    <value>Método proporção de aspecto</value>
   </data>
   <data name="audio" xml:space="preserve">
-    <value>Audio</value>
+    <value>Áudio</value>
   </data>
   <data name="audio_language" xml:space="preserve">
-    <value>Audio tracks (only available)</value>
+    <value>Faixas de Áudio (somente disponíveis)</value>
   </data>
   <data name="auto" xml:space="preserve">
-    <value>Auto</value>
+    <value>Automático</value>
   </data>
   <data name="caption_disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Desabilitado</value>
   </data>
   <data name="caption_language" xml:space="preserve">
-    <value>Closed caption language (only available)</value>
+    <value>Idioma da legenda fechada (somente disponível)</value>
   </data>
   <data name="disabled" xml:space="preserve">
-    <value>Disabled</value>
+    <value>Desabilitado</value>
   </data>
   <data name="display" xml:space="preserve">
-    <value>Display</value>
+    <value>Visualização</value>
   </data>
   <data name="enabled" xml:space="preserve">
-    <value>Enabled</value>
+    <value>Ativado</value>
   </data>
   <data name="error_noVideoId" xml:space="preserve">
-    <value>Video ID must not be empty!</value>
+    <value>ID de vídeo não pode estar vazio!</value>
   </data>
   <data name="fill" xml:space="preserve">
-    <value>Fill</value>
+    <value>Preencher</value>
   </data>
   <data name="frame_limiter" xml:space="preserve">
     <value>Frame limiter</value>
   </data>
   <data name="fullscreen_entered" xml:space="preserve">
-    <value>Press F11 to exit the full screen.</value>
+    <value>Pressione F11 para sair da tela cheia.</value>
   </data>
   <data name="general" xml:space="preserve">
-    <value>General</value>
+    <value>Gerais</value>
   </data>
   <data name="google_translate" xml:space="preserve">
-    <value>Google Translate</value>
+    <value>Google Tradutor</value>
   </data>
   <data name="graphics" xml:space="preserve">
-    <value>Graphics</value>
+    <value>Gráficos</value>
   </data>
   <data name="language" xml:space="preserve">
-    <value>Language</value>
+    <value>IDIOMA</value>
   </data>
   <data name="letterbox" xml:space="preserve">
     <value>Letterbox</value>
   </data>
   <data name="load_from_video_id" xml:space="preserve">
-    <value>Load from video ID</value>
+    <value>Carregar pelo ID do vídeo</value>
   </data>
   <data name="load_video" xml:space="preserve">
-    <value>Load Video</value>
+    <value>Carregar vídeo</value>
   </data>
   <data name="master_volume" xml:space="preserve">
-    <value>Master volume</value>
+    <value>Volume principal</value>
   </data>
   <data name="minimise_on_focus_loss" xml:space="preserve">
-    <value>Minimise video player when switching to another app</value>
+    <value>Minimizar o reprodutor de vídeo quando mudar para outro app</value>
   </data>
   <data name="prefer_high_quality" xml:space="preserve">
-    <value>Prefer high quality</value>
+    <value>Preferir alta qualidade</value>
   </data>
   <data name="adjust_pitch_on_speed_change" xml:space="preserve">
-    <value>Adjust pitch on speed change</value>
+    <value>Ajustar tom ao mudar velocidade</value>
   </data>
   <data name="profile_image_tooltip" xml:space="preserve">
-    <value>{0} • {1} subscribers • Click to view channel via external web browser.</value>
+    <value>{0} • Assinantes {1} • Clique para ver o canal através do navegador externo.</value>
   </data>
   <data name="screen_mode" xml:space="preserve">
-    <value>Screen mode</value>
+    <value>Modo de tela</value>
   </data>
   <data name="screen_resolution" xml:space="preserve">
-    <value>Screen resolution</value>
+    <value>Resolução da tela</value>
   </data>
   <data name="selected_caption" xml:space="preserve">
-    <value>Selected caption: {0}</value>
+    <value>Legenda selecionada: {0}</value>
   </data>
   <data name="selected_caption_auto_gen" xml:space="preserve">
-    <value>Selected caption: {0} (auto-generated)</value>
+    <value>Legenda selecionada: {0} (gerado automaticamente)</value>
   </data>
   <data name="settings" xml:space="preserve">
-    <value>Settings</value>
+    <value>Confirgurações</value>
   </data>
   <data name="sfx_volume" xml:space="preserve">
-    <value>SFX volume</value>
+    <value>Efeitos sonoros</value>
   </data>
   <data name="ui_scaling" xml:space="preserve">
-    <value>UI scaling</value>
+    <value>Escala da interface</value>
   </data>
   <data name="use_hardware_acceleration" xml:space="preserve">
-    <value>Use hardware acceleration</value>
+    <value>Usar aceleração de hardware</value>
   </data>
   <data name="video" xml:space="preserve">
-    <value>Video</value>
+    <value>Vídeo</value>
   </data>
   <data name="video_metadata_desc" xml:space="preserve">
-    <value>{0} • {1} views • {2}</value>
+    <value>{0} • {1} visualizações • {2}</value>
   </data>
   <data name="video_metadata_desc_without_channel_name" xml:space="preserve">
-    <value>{0} views  {1}</value>
+    <value>{0} Vistas  {1}</value>
   </data>
   <data name="video_metadata_translate_source" xml:space="preserve">
-    <value>Video metadata translate source</value>
+    <value>Fonte de tradução de metadados de vídeo</value>
   </data>
   <data name="video_quality" xml:space="preserve">
-    <value>Video quality</value>
+    <value>Qualidade do vídeo</value>
   </data>
   <data name="video_volume" xml:space="preserve">
-    <value>Video volume</value>
+    <value>Volume de vídeo</value>
   </data>
   <data name="comments" xml:space="preserve">
-    <value>Comments ({0})</value>
+    <value>Comentários ({0})</value>
   </data>
   <data name="comments_without_count" xml:space="preserve">
-    <value>Comments</value>
+    <value>comentários</value>
   </data>
   <data name="dim" xml:space="preserve">
-    <value>Video dim level</value>
+    <value>Nível de escurecimento</value>
   </data>
   <data name="translate_to" xml:space="preserve">
-    <value>Translate to {0}</value>
+    <value>Traduzir para {0}</value>
   </data>
   <data name="translate_view_original" xml:space="preserve">
-    <value>See original (Translated by Google)</value>
+    <value>Ver original (Traduzido pelo Google)</value>
   </data>
   <data name="comment_reply" xml:space="preserve">
-    <value>{0} (Reply to {1})</value>
+    <value>{0} (resposta a {1})</value>
   </data>
   <data name="running_latest_release" xml:space="preserve">
-    <value>You are running the latest release ({0})</value>
+    <value>Você está executando a versão mais recente ({0})</value>
   </data>
   <data name="updating" xml:space="preserve">
-    <value>Downloading update... {0}%</value>
+    <value>Baixando atualização... {0}%</value>
   </data>
   <data name="restart_required" xml:space="preserve">
-    <value>To apply updates, please restart the app.</value>
+    <value>Para aplicar as atualizações, por favor reinicie o aplicativo.</value>
   </data>
   <data name="update_failed" xml:space="preserve">
-    <value>Update failed!</value>
+    <value>A atualização falhou!</value>
   </data>
   <data name="checking_update" xml:space="preserve">
-    <value>Checking for update...</value>
+    <value>Verificando atualizações...</value>
   </data>
   <data name="check_update" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>Verificar se há atualizações</value>
   </data>
   <data name="like_count_hidden" xml:space="preserve">
-    <value>Like count hidden by uploader</value>
+    <value>Contagem de curtidas ocultas pelo uploader</value>
   </data>
   <data name="disabled_by_uploader" xml:space="preserve">
-    <value>Disabled by uploader</value>
+    <value>Desativado pelo carregador</value>
   </data>
   <data name="dislike_counter_credits" xml:space="preserve">
-    <value>Dislike count data is provided by the Return YouTube Dislike API.</value>
+    <value>Dados de contador de desgosto são fornecidos pela API Return Dislike no YouTube.</value>
   </data>
   <data name="common_default" xml:space="preserve">
-    <value>Default</value>
+    <value>Padrão</value>
   </data>
   <data name="show_fps" xml:space="preserve">
-    <value>Show FPS</value>
+    <value>Mostrar FPS</value>
   </data>
   <data name="cannot_play_private_videos" xml:space="preserve">
-    <value>Cannot play private videos.</value>
+    <value>Não é possível reproduzir vídeos privados.</value>
   </data>
   <data name="play" xml:space="preserve">
-    <value>Play</value>
+    <value>Reproduzir</value>
   </data>
   <data name="pause" xml:space="preserve">
-    <value>Pause</value>
+    <value>Suspender</value>
   </data>
   <data name="playback_speed" xml:space="preserve">
-    <value>Playback speed: {0}</value>
+    <value>Velocidade de reprodução: {0}</value>
   </data>
   <data name="video_quality_8k_warning" xml:space="preserve">
-    <value>Setting the video quality to 8K may cause performance degradation, GPU overload, and driver crashes on some devices.</value>
+    <value>Definir a qualidade de vídeo para 8K pode causar degradação de desempenho, carga excessiva da GPU e travamentos de driver em alguns dispositivos.</value>
   </data>
   <data name="renderer" xml:space="preserve">
-    <value>Renderer</value>
+    <value>Renderizador</value>
   </data>
 </root>
