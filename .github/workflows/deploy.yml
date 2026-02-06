@@ -1,0 +1,38 @@
+name: Pack and nuget
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  pack:
+    name: Pack
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set artifacts directory
+        id: artifactsPath
+        run: echo "::set-output name=nuget_artifacts::${{github.workspace}}/artifacts"
+
+      - name: Install .NET 8.0.x
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Pack
+        run: dotnet pack -c Release YouTubePlayerEX.App.Resources /p:Version=${{ github.ref_name }} /p:GenerateDocumentationFile=true /p:IncludeSymbols=true /p:SymbolPackageFormat=snupkg -o ${{steps.artifactsPath.outputs.nuget_artifacts}}
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: osu-resources
+          path: |
+            ${{steps.artifactsPath.outputs.nuget_artifacts}}/*.nupkg
+            ${{steps.artifactsPath.outputs.nuget_artifacts}}/*.snupkg
+
+      - name: Publish packages to nuget.org
+        run: dotnet nuget push ${{steps.artifactsPath.outputs.nuget_artifacts}}/*.nupkg --api-key ${{ secrets.NUGET_API_KEY }} --source https://api.nuget.org/v3/index.json
