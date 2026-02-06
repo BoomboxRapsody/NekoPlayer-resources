@@ -1,4 +1,4 @@
-# YouTubePlayerEX-resources
+# YouTube Player EX Resources
 Assets used by YouTube Player EX.
 
 ## Requirements
