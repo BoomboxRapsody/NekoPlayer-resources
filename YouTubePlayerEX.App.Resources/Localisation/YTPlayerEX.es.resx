@@ -244,4 +244,195 @@
   <data name="renderer" xml:space="preserve">
     <value>Renderizador</value>
   </data>
+  <data name="export_logs" xml:space="preserve">
+    <value>Exportar registros</value>
+  </data>
+  <data name="logs_export_finished" xml:space="preserve">
+    <value>¡Registros exportados!</value>
+  </data>
+  <data name="revert_to_default" xml:space="preserve">
+    <value>Revertir por defecto</value>
+  </data>
+  <data name="playback_speed_without_value" xml:space="preserve">
+    <value>Velocidad de reproducción</value>
+  </data>
+  <data name="quick_action" xml:space="preserve">
+    <value>Acción rápida</value>
+  </data>
+  <data name="caption_font" xml:space="preserve">
+    <value>Leyenda cerrada</value>
+  </data>
+  <data name="dislike_count_tooltip" xml:space="preserve">
+    <value>Estimado: {0} | Actual: {1}</value>
+  </data>
+  <data name="caption_auto_gen" xml:space="preserve">
+    <value>{0} (auto-generado)</value>
+  </data>
+  <data name="scale_video" xml:space="preserve">
+    <value>Vídeo</value>
+    <comment>scale_video</comment>
+  </data>
+  <data name="scale_everything" xml:space="preserve">
+    <value>Todo</value>
+  </data>
+  <data name="scaling_off" xml:space="preserve">
+    <value>Apagado</value>
+  </data>
+  <data name="screen_scaling" xml:space="preserve">
+    <value>Escalado de pantalla</value>
+  </data>
+  <data name="horizontal_position" xml:space="preserve">
+    <value>Posición horizontal</value>
+  </data>
+  <data name="vertical_position" xml:space="preserve">
+    <value>Posición vertical</value>
+  </data>
+  <data name="horizontal_scale" xml:space="preserve">
+    <value>Escala horizontal</value>
+  </data>
+  <data name="vertical_scale" xml:space="preserve">
+    <value>Escala vertical</value>
+  </data>
+  <data name="thumbnail_dim" xml:space="preserve">
+    <value>Thumbnail dim</value>
+  </data>
+  <data name="shrink_game_to_safe_area" xml:space="preserve">
+    <value>Contraer aplicación para evitar cámaras y notches</value>
+  </data>
+  <data name="username_display_mode" xml:space="preserve">
+    <value>Modo mostrar nombre de usuario</value>
+  </data>
+  <data name="jpg_web_friendly" xml:space="preserve">
+    <value>JPG (amigable)</value>
+  </data>
+  <data name="png_lossless" xml:space="preserve">
+    <value>PNG (sin pérdida)</value>
+  </data>
+  <data name="screenshot_saved" xml:space="preserve">
+    <value>Captura de pantalla guardada!</value>
+  </data>
+  <data name="screenshot" xml:space="preserve">
+    <value>Captura de pantalla</value>
+  </data>
+  <data name="screenshot_format" xml:space="preserve">
+    <value>Formato de captura</value>
+  </data>
+  <data name="show_cursor_in_screenshots" xml:space="preserve">
+    <value>Mostrar interfaz de usuario en capturas de pantalla</value>
+  </data>
+  <data name="username_display_mode_nickname" xml:space="preserve">
+    <value>Nombre de usuario preferido (2005~2022)</value>
+  </data>
+  <data name="username_display_mode_handle" xml:space="preserve">
+    <value>Preferir asa de pantalla (2022~ahora)</value>
+  </data>
+  <data name="comment_added" xml:space="preserve">
+    <value>Comentario añadido.</value>
+  </data>
+  <data name="comment_with" xml:space="preserve">
+    <value>Escribe un comentario con {0}</value>
+  </data>
+  <data name="signed_in" xml:space="preserve">
+    <value>Sesión iniciada en {0}</value>
+  </data>
+  <data name="signed_out" xml:space="preserve">
+    <value>No conectado</value>
+  </data>
+  <data name="google_account" xml:space="preserve">
+    <value>Cuenta de Google</value>
+  </data>
+  <data name="search" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="search_placeholder" xml:space="preserve">
+    <value>buscar...</value>
+  </data>
+  <data name="view_latest_versions" xml:space="preserve">
+    <value>Ver las últimas versiones</value>
+  </data>
+  <data name="report" xml:space="preserve">
+    <value>Reporte</value>
+  </data>
+  <data name="whats_going_on" xml:space="preserve">
+    <value>¿Qué está pasando?</value>
+  </data>
+  <data name="report_desc" xml:space="preserve">
+    <value>Comprobaremos todas las Directrices de la Comunidad, así que no te preocupes por hacer la elección perfecta.</value>
+  </data>
+  <data name="submit" xml:space="preserve">
+    <value>Enviar</value>
+  </data>
+  <data name="report_success" xml:space="preserve">
+    <value>Gracias por su envío.</value>
+  </data>
+  <data name="description" xml:space="preserve">
+    <value>Descripción</value>
+  </data>
+  <data name="report_reason" xml:space="preserve">
+    <value>Razón</value>
+  </data>
+  <data name="report_sub_reason" xml:space="preserve">
+    <value>Razón detallada</value>
+  </data>
+  <data name="windowed" xml:space="preserve">
+    <value>Ventana</value>
+  </data>
+  <data name="borderless" xml:space="preserve">
+    <value>Sin fronteras</value>
+  </data>
+  <data name="fullscreen" xml:space="preserve">
+    <value>Pantalla completa</value>
+  </data>
+  <data name="vertical_sync" xml:space="preserve">
+    <value>VSync</value>
+  </data>
+  <data name="refresh_rate_2x" xml:space="preserve">
+    <value>Tasa de actualización 2x</value>
+  </data>
+  <data name="refresh_rate_4x" xml:space="preserve">
+    <value>Tasa de actualización 4x</value>
+  </data>
+  <data name="refresh_rate_8x" xml:space="preserve">
+    <value>Tasa de actualización 8x</value>
+  </data>
+  <data name="unlimited" xml:space="preserve">
+    <value>Básicamente ilimitado</value>
+  </data>
+  <data name="dislike_counter_credits_1" xml:space="preserve">
+    <value>No me gustan los datos del recuento proporcionado por el </value>
+  </data>
+  <data name="dislike_counter_credits_2" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="mocha_chan_labs" xml:space="preserve">
+    <value>Laboratorios de Mocha-Mobo</value>
+  </data>
+  <data name="crt_effect" xml:space="preserve">
+    <value>Efecto CRT</value>
+  </data>
+  <data name="pixel_effect" xml:space="preserve">
+    <value>Efecto de píxel</value>
+  </data>
+  <data name="mocha_chan_labs_desc" xml:space="preserve">
+    <value>Las siguientes características son experimentales y pueden ser eliminadas o movidas en el futuro.</value>
+  </data>
+  <data name="pixel_size" xml:space="preserve">
+    <value>Tamaño del píxel</value>
+  </data>
+  <data name="always_use_original_audio" xml:space="preserve">
+    <value>Usar siempre audio original</value>
+  </data>
+  <data name="no_description" xml:space="preserve">
+    <value>No se ha añadido ninguna descripción a este vídeo.</value>
+  </data>
+  <data name="view_version_desc" xml:space="preserve">
+    <value>View changelog for {0}</value>
+    <comment>view_version_desc</comment>
+  </data>
+  <data name="render_type_automatic" xml:space="preserve">
+    <value>Automatic</value>
+  </data>
+  <data name="render_type_automatic_is_use" xml:space="preserve">
+    <value>Automatic ({0})</value>
+  </data>
 </root>
