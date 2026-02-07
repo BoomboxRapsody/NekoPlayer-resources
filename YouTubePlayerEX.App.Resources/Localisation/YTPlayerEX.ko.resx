@@ -435,4 +435,7 @@
   <data name="render_type_automatic_is_use" xml:space="preserve">
     <value>시스템이 자동으로 결정 ({0})</value>
   </data>
+  <data name="use_system_cursor" xml:space="preserve">
+    <value>항상 시스템 마우스 포인터 사용</value>
+  </data>
 </root>
