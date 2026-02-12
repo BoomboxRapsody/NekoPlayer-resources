@@ -469,4 +469,40 @@
     <value>GPU를 통한 하드웨어 가속을 켰습니다. 만약 문제가 발생했다면, 당분간은 하드웨어 가속은 비활성화된 상태로 유지해 주세요.</value>
     <comment>hw_acceleration_enabled_note</comment>
   </data>
+  <data name="audio_effects" xml:space="preserve">
+    <value>오디오 효과 (베타)</value>
+  </data>
+  <data name="reverb" xml:space="preserve">
+    <value>리버브</value>
+  </data>
+  <data name="reverb_wet_mix" xml:space="preserve">
+    <value>습식</value>
+  </data>
+  <data name="reverb_stereo_width" xml:space="preserve">
+    <value>스테레오 폭</value>
+  </data>
+  <data name="reverb_high_frequency_damping" xml:space="preserve">
+    <value>높은 주파수 댐핑</value>
+  </data>
+  <data name="reverb_room_size" xml:space="preserve">
+    <value>방 크기</value>
+  </data>
+  <data name="audio_effect_rotate_rate" xml:space="preserve">
+    <value>회전 속도</value>
+  </data>
+  <data name="audio_effect_rotate_enabled" xml:space="preserve">
+    <value>3D 회전 효과</value>
+  </data>
+  <data name="echo_dry_mix" xml:space="preserve">
+    <value>건식</value>
+  </data>
+  <data name="echo_feedback" xml:space="preserve">
+    <value>피드백</value>
+  </data>
+  <data name="echo_delay" xml:space="preserve">
+    <value>지연</value>
+  </data>
+  <data name="echo_effect" xml:space="preserve">
+    <value>에코</value>
+  </data>
 </root>
