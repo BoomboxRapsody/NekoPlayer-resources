@@ -466,17 +466,17 @@
     <value>Siguiente vídeo</value>
   </data>
   <data name="hw_acceleration_enabled_note" xml:space="preserve">
-    <value>Hardware acceleration via GPU is enabled. If you experience any issues, please keep hardware acceleration disabled for now.</value>
+    <value>La aceleración de hardware por GPU está activado. Si tienes cualquier problema, por favor mantén la opción desactivada por ahora.</value>
     <comment>hw_acceleration_enabled_note</comment>
   </data>
   <data name="audio_effects" xml:space="preserve">
-    <value>Audio effects (Beta)</value>
+    <value>Efectos de audio (Beta)</value>
   </data>
   <data name="reverb" xml:space="preserve">
-    <value>Reverb</value>
+    <value>Reverberación</value>
   </data>
   <data name="reverb_wet_mix" xml:space="preserve">
-    <value>Wet mix</value>
+    <value>Mezcla reverberada</value>
   </data>
   <data name="reverb_stereo_width" xml:space="preserve">
     <value>Stereo width</value>
@@ -494,7 +494,7 @@
     <value>3D rotate effect</value>
   </data>
   <data name="echo_dry_mix" xml:space="preserve">
-    <value>Dry mix</value>
+    <value>Mezcla original</value>
   </data>
   <data name="echo_feedback" xml:space="preserve">
     <value>Feedback</value>
@@ -504,5 +504,14 @@
   </data>
   <data name="echo_effect" xml:space="preserve">
     <value>Echo</value>
+  </data>
+  <data name="distortion_effect" xml:space="preserve">
+    <value>Distortion</value>
+  </data>
+  <data name="distortion_volume" xml:space="preserve">
+    <value>Distortion volume</value>
+  </data>
+  <data name="distortion_drive" xml:space="preserve">
+    <value>Distortion drive</value>
   </data>
 </root>
