@@ -511,4 +511,7 @@
   <data name="distortion_volume" xml:space="preserve">
     <value>디스토션 음량</value>
   </data>
+  <data name="bloom" xml:space="preserve">
+    <value>동영상의 블룸 레벨</value>
+  </data>
 </root>
