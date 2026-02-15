@@ -523,4 +523,7 @@
   <data name="grayscale" xml:space="preserve">
     <value>동영상의 회색조 레벨</value>
   </data>
+  <data name="hue_shift" xml:space="preserve">
+    <value>동영상의 색조 변화</value>
+  </data>
 </root>
