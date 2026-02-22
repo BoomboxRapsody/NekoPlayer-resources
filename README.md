@@ -1,4 +1,7 @@
 # YouTube Player EX Resources
+
+[![dev chat](https://discordapp.com/api/guilds/1474931183854026812/widget.png?style=shield)](https://discord.gg/UZWDqQ29ch)
+
 Assets used by YouTube Player EX.
 
 ## Requirements
