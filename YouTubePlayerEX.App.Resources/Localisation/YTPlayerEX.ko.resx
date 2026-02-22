@@ -538,4 +538,25 @@
   <data name="discord_presence_off" xml:space="preserve">
     <value>끄기</value>
   </data>
+  <data name="cancel" xml:space="preserve">
+    <value>취소</value>
+  </data>
+  <data name="yes" xml:space="preserve">
+    <value>예</value>
+  </data>
+  <data name="unsubscribe_desc" xml:space="preserve">
+    <value>정말로 구독을 취소하시겠습니까?</value>
+  </data>
+  <data name="subscribe" xml:space="preserve">
+    <value>구독</value>
+  </data>
+  <data name="unsubscribe" xml:space="preserve">
+    <value>구독 취소</value>
+  </data>
+  <data name="subscription_removed" xml:space="preserve">
+    <value>구독이 삭제되었습니다.</value>
+  </data>
+  <data name="subscription_added" xml:space="preserve">
+    <value>구독이 추가되었습니다.</value>
+  </data>
 </root>
