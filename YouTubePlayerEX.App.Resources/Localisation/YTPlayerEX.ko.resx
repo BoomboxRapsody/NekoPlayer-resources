@@ -530,7 +530,7 @@
     <value>Discord 프로필 정보</value>
   </data>
   <data name="hide_identifiable_information" xml:space="preserve">
-    <value>특정할 수 있는 정보 숨기기</value>
+    <value>동영상 정보 숨기기</value>
   </data>
   <data name="discord_presence_full" xml:space="preserve">
     <value>전체</value>
