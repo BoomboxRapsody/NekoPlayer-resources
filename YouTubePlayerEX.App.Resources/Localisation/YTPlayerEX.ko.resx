@@ -559,4 +559,13 @@
   <data name="subscription_added" xml:space="preserve">
     <value>구독이 추가되었습니다.</value>
   </data>
+  <data name="closed_captions" xml:space="preserve">
+    <value>자막</value>
+  </data>
+  <data name="summarize_via_gpt" xml:space="preserve">
+    <value>ChatGPT를 통해 요약</value>
+  </data>
+  <data name="gpt_summarize_prompt" xml:space="preserve">
+    <value>{0} 이 동영상 요약해줘</value>
+  </data>
 </root>
