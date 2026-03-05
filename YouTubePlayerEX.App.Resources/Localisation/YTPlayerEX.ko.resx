@@ -616,4 +616,13 @@
   <data name="audio_normalization" xml:space="preserve">
     <value>안정적인 볼륨</value>
   </data>
+  <data name="use_sdl3_host" xml:space="preserve">
+    <value>SDL3 호스트 사용 (실험적)</value>
+  </data>
+  <data name="logout" xml:space="preserve">
+    <value>로그아웃</value>
+  </data>
+  <data name="view_channel" xml:space="preserve">
+    <value>채널 보기</value>
+  </data>
 </root>
