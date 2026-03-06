@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace NekoPlayer.App.Resources
 {
-    public static class YouTubePlayerEXResources
+    public static class NekoPlayerResources
     {
         public static Assembly ResourceAssembly => typeof(NekoPlayerResources).Assembly;
     }
