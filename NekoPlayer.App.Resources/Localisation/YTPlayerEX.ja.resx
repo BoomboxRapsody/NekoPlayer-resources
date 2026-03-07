@@ -411,105 +411,108 @@
     <value>この動画に説明が追加されていません。</value>
   </data>
   <data name="view_version_desc" xml:space="preserve">
-    <value>View changelog for {0}</value>
+    <value>{0}の変更ログを表示します</value>
     <comment>view_version_desc</comment>
   </data>
   <data name="render_type_automatic" xml:space="preserve">
-    <value>Automatic</value>
+    <value>自動</value>
   </data>
   <data name="render_type_automatic_is_use" xml:space="preserve">
-    <value>Automatic ({0})</value>
+    <value>自動 ({0})</value>
   </data>
   <data name="use_system_cursor" xml:space="preserve">
-    <value>Always use system cursor</value>
+    <value>常にシステムカーソルを使用します</value>
   </data>
   <data name="wasapi_label" xml:space="preserve">
-    <value>Use experimental audio mode</value>
+    <value>実験オーディオモードを使用します</value>
   </data>
   <data name="wasapi_tooltip" xml:space="preserve">
-    <value>This will attempt to initialise the audio engine in a lower latency mode.</value>
+    <value>これにより、低遅延モードでオーディオ エンジンを初期化しようとします。</value>
   </data>
   <data name="output_device" xml:space="preserve">
-    <value>Output device</value>
+    <value>出力デバイス</value>
   </data>
   <data name="volume" xml:space="preserve">
-    <value>Volume</value>
+    <value>ボリューム</value>
   </data>
   <data name="debug" xml:space="preserve">
-    <value>Debug</value>
+    <value>デバッグ</value>
   </data>
   <data name="show_log_overlay" xml:space="preserve">
-    <value>Show log overlay</value>
+    <value>ログ オーバーレイ表示</value>
   </data>
   <data name="bypass_ftb_render_pass" xml:space="preserve">
-    <value>Bypass front-to-back render pass</value>
+    <value>前面から背面へのレンダー パスをバイパスします</value>
   </data>
   <data name="gc_mode" xml:space="preserve">
-    <value>GC mode</value>
+    <value>GCモード</value>
   </data>
   <data name="clear_all_caches" xml:space="preserve">
-    <value>Clear all caches</value>
+    <value>すべてのキャッシュをクリアします</value>
   </data>
   <data name="load_from_playlist_id" xml:space="preserve">
-    <value>Load from playlist ID</value>
+    <value>プレイリストIDからロードします</value>
   </data>
   <data name="load_playlist" xml:space="preserve">
-    <value>Load Playlist</value>
+    <value>ロードプレイリスト</value>
   </data>
   <data name="playlists" xml:space="preserve">
-    <value>Playlists</value>
+    <value>プレイリスト</value>
   </data>
   <data name="previous_video" xml:space="preserve">
-    <value>Previous video</value>
+    <value>前ビデオ</value>
   </data>
   <data name="next_video" xml:space="preserve">
-    <value>Next video</value>
+    <value>次ビデオ</value>
   </data>
   <data name="hw_acceleration_enabled_note" xml:space="preserve">
-    <value>Hardware acceleration via GPU is enabled. If you experience any issues, please keep hardware acceleration disabled for now.</value>
+    <value>GPUによるハードウェアアクセラレーションが有効になっています。 問題が発生した場合は、ハードウェアアクセラレーションを無効にしておきます。</value>
     <comment>hw_acceleration_enabled_note</comment>
   </data>
   <data name="audio_effects" xml:space="preserve">
-    <value>Audio effects (Beta)</value>
+    <value>オーディオ効果 (ベータ)</value>
   </data>
   <data name="reverb" xml:space="preserve">
-    <value>Reverb</value>
+    <value>リバーブ</value>
   </data>
   <data name="reverb_wet_mix" xml:space="preserve">
-    <value>Wet mix</value>
+    <value>ウェットミックス</value>
+  </data>
+  <data name="echo_wet_mix" xml:space="preserve">
+    <value>ウェットミックス</value>
   </data>
   <data name="reverb_stereo_width" xml:space="preserve">
-    <value>Stereo width</value>
+    <value>ステレオ プレゼンテーション</value>
   </data>
   <data name="reverb_high_frequency_damping" xml:space="preserve">
-    <value>High frequency damping</value>
+    <value>高周波減衰</value>
   </data>
   <data name="reverb_room_size" xml:space="preserve">
-    <value>Room size</value>
+    <value>部屋サイズ</value>
   </data>
   <data name="audio_effect_rotate_rate" xml:space="preserve">
-    <value>Rotate rate</value>
+    <value>回転速度</value>
   </data>
   <data name="audio_effect_rotate_enabled" xml:space="preserve">
-    <value>3D rotate effect</value>
+    <value>3次元回転効果</value>
   </data>
   <data name="echo_dry_mix" xml:space="preserve">
-    <value>Dry mix</value>
+    <value>ドライミックス</value>
   </data>
   <data name="echo_feedback" xml:space="preserve">
-    <value>Feedback</value>
+    <value>フィードバック</value>
   </data>
   <data name="echo_delay" xml:space="preserve">
-    <value>Delay</value>
+    <value>遅延</value>
   </data>
   <data name="echo_effect" xml:space="preserve">
-    <value>Echo</value>
+    <value>エコ</value>
   </data>
   <data name="distortion_effect" xml:space="preserve">
-    <value>Distortion</value>
+    <value>ディストーション</value>
   </data>
   <data name="distortion_volume" xml:space="preserve">
-    <value>Distortion volume</value>
+    <value>ひずみ量</value>
   </data>
   <data name="bloom" xml:space="preserve">
     <value>ビデオブルームレベル</value>
@@ -624,5 +627,29 @@
   </data>
   <data name="view_channel" xml:space="preserve">
     <value>表示チャネル</value>
+  </data>
+  <data name="video_not_loaded" xml:space="preserve">
+    <value>ビデオがロードされていません！</value>
+  </data>
+  <data name="video_not_loaded_desc" xml:space="preserve">
+    <value>ぜひ動画をご覧くださいませ！</value>
+  </data>
+  <data name="my_playlists" xml:space="preserve">
+    <value>マイプレイリスト</value>
+  </data>
+  <data name="playlist_not_loaded" xml:space="preserve">
+    <value>再生リストがロードされていません！</value>
+  </data>
+  <data name="playlist_not_loaded_desc" xml:space="preserve">
+    <value>プレイリストをロードしてご覧いただけます！</value>
+  </data>
+  <data name="exit_options" xml:space="preserve">
+    <value>終了オプション</value>
+  </data>
+  <data name="power_off" xml:space="preserve">
+    <value>電源オフシステム</value>
+  </data>
+  <data name="restart_system" xml:space="preserve">
+    <value>システムを再起動します</value>
   </data>
 </root>

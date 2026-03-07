@@ -86,7 +86,7 @@
     <value>켜짐</value>
   </data>
   <data name="error_noVideoId" xml:space="preserve">
-    <value>비디오 ID는 비어있지 않아야 합니다.</value>
+    <value>비디오 ID는 비어있지 않아야 해요.</value>
   </data>
   <data name="fill" xml:space="preserve">
     <value>채우기</value>
@@ -218,7 +218,7 @@
     <value>업로더가 비활성화함</value>
   </data>
   <data name="dislike_counter_credits" xml:space="preserve">
-    <value>싫어요 수의 데이터는 Return YouTube Dislike API에 의해 제공됩니다.</value>
+    <value>싫어요 수의 데이터는 Return YouTube Dislike API에 의해 제공되요.</value>
   </data>
   <data name="common_default" xml:space="preserve">
     <value>기본값</value>
@@ -227,7 +227,7 @@
     <value>FPS 표시</value>
   </data>
   <data name="cannot_play_private_videos" xml:space="preserve">
-    <value>비공개 동영상을 재생할 수 없습니다.</value>
+    <value>비공개 동영상을 재생할 수 없어요.</value>
   </data>
   <data name="play" xml:space="preserve">
     <value>재생</value>
@@ -239,7 +239,7 @@
     <value>재생 속도: {0}</value>
   </data>
   <data name="video_quality_8k_warning" xml:space="preserve">
-    <value>동영상 화질을 8K로 설정하면 일부 기기에서 성능 저하, GPU 과부하, 드라이버 충돌을 유발할 수 있습니다.</value>
+    <value>동영상 화질을 8K로 설정하면 일부 기기에서 성능 저하, GPU 과부하, 드라이버 충돌을 유발할 수 있어요.</value>
   </data>
   <data name="renderer" xml:space="preserve">
     <value>렌더러</value>
@@ -248,7 +248,7 @@
     <value>로그 내보내기</value>
   </data>
   <data name="logs_export_finished" xml:space="preserve">
-    <value>로그를 성공적으로 내보냈습니다!</value>
+    <value>로그를 성공적으로 내보냈어요!</value>
   </data>
   <data name="revert_to_default" xml:space="preserve">
     <value>기본값으로 복원</value>
@@ -402,13 +402,13 @@
     <value>싫어요 수의 데이터는 </value>
   </data>
   <data name="dislike_counter_credits_2" xml:space="preserve">
-    <value>에 의해 제공됩니다.</value>
+    <value>에 의해 제공되요.</value>
   </data>
   <data name="always_use_original_audio" xml:space="preserve">
     <value>항상 원본 오디오 트랙 사용</value>
   </data>
   <data name="no_description" xml:space="preserve">
-    <value>이 동영상에 추가된 설명이 없습니다.</value>
+    <value>이 동영상에 추가된 설명이 없어요.</value>
   </data>
   <data name="view_version_desc" xml:space="preserve">
     <value>{0} 버전에 대한 변경 내용 보기</value>
@@ -466,7 +466,7 @@
     <value>다음 동영상</value>
   </data>
   <data name="hw_acceleration_enabled_note" xml:space="preserve">
-    <value>GPU를 통한 하드웨어 가속을 켰습니다. 만약 문제가 발생했다면, 당분간은 하드웨어 가속은 비활성화된 상태로 유지해 주세요.</value>
+    <value>GPU를 통한 하드웨어 가속을 켰어요. 만약 문제가 발생했다면, 당분간은 하드웨어 가속은 비활성화된 상태로 유지해 주세요.</value>
     <comment>hw_acceleration_enabled_note</comment>
   </data>
   <data name="audio_effects" xml:space="preserve">
@@ -476,6 +476,9 @@
     <value>리버브</value>
   </data>
   <data name="reverb_wet_mix" xml:space="preserve">
+    <value>습식</value>
+  </data>
+  <data name="echo_wet_mix" xml:space="preserve">
     <value>습식</value>
   </data>
   <data name="reverb_stereo_width" xml:space="preserve">
@@ -545,7 +548,7 @@
     <value>예</value>
   </data>
   <data name="unsubscribe_desc" xml:space="preserve">
-    <value>정말로 구독을 취소하시겠습니까?</value>
+    <value>정말로 구독을 취소하시겠어요?</value>
   </data>
   <data name="subscribe" xml:space="preserve">
     <value>구독</value>
@@ -624,5 +627,29 @@
   </data>
   <data name="view_channel" xml:space="preserve">
     <value>채널 보기</value>
+  </data>
+  <data name="video_not_loaded" xml:space="preserve">
+    <value>동영상을 불러오지 않았어요!</value>
+  </data>
+  <data name="video_not_loaded_desc" xml:space="preserve">
+    <value>동영상을 불러오기하여 감상하세요!</value>
+  </data>
+  <data name="my_playlists" xml:space="preserve">
+    <value>나의 재생목록</value>
+  </data>
+  <data name="playlist_not_loaded" xml:space="preserve">
+    <value>재생목록을 불러오지 않았어요!</value>
+  </data>
+  <data name="playlist_not_loaded_desc" xml:space="preserve">
+    <value>재생목록을 불러오기하여 감상하세요!</value>
+  </data>
+  <data name="exit_options" xml:space="preserve">
+    <value>종료 옵션</value>
+  </data>
+  <data name="power_off" xml:space="preserve">
+    <value>시스템 종료</value>
+  </data>
+  <data name="restart_system" xml:space="preserve">
+    <value>시스템 다시 시작</value>
   </data>
 </root>
