@@ -652,4 +652,19 @@
   <data name="restart_system" xml:space="preserve">
     <value>システムを再起動します</value>
   </data>
+  <data name="audio_quality" xml:space="preserve">
+    <value>音質</value>
+  </data>
+  <data name="prefer_high_quality_audio" xml:space="preserve">
+    <value>高品質を優先します</value>
+  </data>
+  <data name="prefer_opus" xml:space="preserve">
+    <value>opus コーデックを優先します</value>
+  </data>
+  <data name="prefer_mp4a" xml:space="preserve">
+    <value>mp4a コーデックを優先します</value>
+  </data>
+  <data name="low_quality" xml:space="preserve">
+    <value>低品質</value>
+  </data>
 </root>

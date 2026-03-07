@@ -652,4 +652,19 @@
   <data name="restart_system" xml:space="preserve">
     <value>시스템 다시 시작</value>
   </data>
+  <data name="audio_quality" xml:space="preserve">
+    <value>오디오 음질</value>
+  </data>
+  <data name="prefer_high_quality_audio" xml:space="preserve">
+    <value>사용 가능한 최고 음질</value>
+  </data>
+  <data name="prefer_opus" xml:space="preserve">
+    <value>Opus 코덱 우선 사용</value>
+  </data>
+  <data name="prefer_mp4a" xml:space="preserve">
+    <value>mp4a 코덱 우선 사용</value>
+  </data>
+  <data name="low_quality" xml:space="preserve">
+    <value>낮은 음질</value>
+  </data>
 </root>
