@@ -667,4 +667,13 @@
   <data name="low_quality" xml:space="preserve">
     <value>낮은 음질</value>
   </data>
+  <data name="close_button_action" xml:space="preserve">
+    <value>닫기 버튼을 누를 때의 동작</value>
+  </data>
+  <data name="hide_to_tray_icon" xml:space="preserve">
+    <value>트레이 아이콘으로 숨기기</value>
+  </data>
+  <data name="close_app" xml:space="preserve">
+    <value>앱 닫기</value>
+  </data>
 </root>
