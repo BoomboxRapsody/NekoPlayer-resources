@@ -679,4 +679,7 @@
   <data name="repeat" xml:space="preserve">
     <value>연속 재생</value>
   </data>
+  <data name="oauth_note" xml:space="preserve">
+    <value>로그인할 때 'Google에서 확인하지 않은 앱' 화면이 표시될 수 있어요. 안심하고 로그인하세요.</value>
+  </data>
 </root>

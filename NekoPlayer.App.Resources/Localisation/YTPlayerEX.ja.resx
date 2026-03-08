@@ -679,4 +679,7 @@
   <data name="repeat" xml:space="preserve">
     <value>繰り返します</value>
   </data>
+  <data name="oauth_note" xml:space="preserve">
+    <value>ログインすると、「Google はこのアプリを検証していません」という画面が表示されることがあります。 ご自由にログインをお願いします。</value>
+  </data>
 </root>
