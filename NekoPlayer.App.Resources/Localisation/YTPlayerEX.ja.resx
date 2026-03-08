@@ -676,4 +676,7 @@
   <data name="close_app" xml:space="preserve">
     <value>アプリを閉じます</value>
   </data>
+  <data name="repeat" xml:space="preserve">
+    <value>繰り返します</value>
+  </data>
 </root>

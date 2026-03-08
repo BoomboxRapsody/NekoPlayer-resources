@@ -218,7 +218,7 @@
     <value>업로더가 비활성화함</value>
   </data>
   <data name="dislike_counter_credits" xml:space="preserve">
-    <value>싫어요 수의 데이터는 Return YouTube Dislike API에 의해 제공되요.</value>
+    <value>싫어요 수의 데이터는 Return YouTube Dislike API에 의해 제공됩니다.</value>
   </data>
   <data name="common_default" xml:space="preserve">
     <value>기본값</value>
@@ -402,7 +402,7 @@
     <value>싫어요 수의 데이터는 </value>
   </data>
   <data name="dislike_counter_credits_2" xml:space="preserve">
-    <value>에 의해 제공되요.</value>
+    <value>에 의해 제공됩니다.</value>
   </data>
   <data name="always_use_original_audio" xml:space="preserve">
     <value>항상 원본 오디오 트랙 사용</value>
@@ -675,5 +675,8 @@
   </data>
   <data name="close_app" xml:space="preserve">
     <value>앱 닫기</value>
+  </data>
+  <data name="repeat" xml:space="preserve">
+    <value>연속 재생</value>
   </data>
 </root>
