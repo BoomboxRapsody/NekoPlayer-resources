@@ -113,7 +113,7 @@
     <value>レターボックス</value>
   </data>
   <data name="load_from_video_id" xml:space="preserve">
-    <value>ビデオ ID からロードします</value>
+    <value>ビデオ ID または URL からロードします</value>
   </data>
   <data name="load_video" xml:space="preserve">
     <value>ビデオロード</value>
@@ -451,7 +451,7 @@
     <value>すべてのキャッシュをクリアします</value>
   </data>
   <data name="load_from_playlist_id" xml:space="preserve">
-    <value>プレイリストIDからロードします</value>
+    <value>プレイリストIDまたはURLからロードします</value>
   </data>
   <data name="load_playlist" xml:space="preserve">
     <value>ロードプレイリスト</value>
@@ -681,5 +681,11 @@
   </data>
   <data name="oauth_note" xml:space="preserve">
     <value>ログインすると、「Google はこのアプリを検証していません」という画面が表示されることがあります。 ご自由にログインをお願いします。</value>
+  </data>
+  <data name="system_volume" xml:space="preserve">
+    <value>システムボリューム</value>
+  </data>
+  <data name="system_volume_with_device" xml:space="preserve">
+    <value>システムボリューム（{0}）</value>
   </data>
 </root>
