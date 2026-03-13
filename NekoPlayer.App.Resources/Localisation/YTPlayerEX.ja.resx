@@ -688,4 +688,16 @@
   <data name="system_volume_with_device" xml:space="preserve">
     <value>システムボリューム（{0}）</value>
   </data>
+  <data name="colour_scheme" xml:space="preserve">
+    <value>アプリケーションカラースキーム</value>
+  </data>
+  <data name="circle" xml:space="preserve">
+    <value>サークル</value>
+  </data>
+  <data name="square" xml:space="preserve">
+    <value>丸型正方形</value>
+  </data>
+  <data name="profile_image_shape" xml:space="preserve">
+    <value>プロファイル画像形状</value>
+  </data>
 </root>
