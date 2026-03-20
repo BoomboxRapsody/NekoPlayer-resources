@@ -730,4 +730,13 @@
   <data name="discord_not_installed" xml:space="preserve">
     <value>Discordはインストールされていません。 Discordをインストールして、あなたの活動を友達と共有しましょう！</value>
   </data>
+  <data name="release_stream" xml:space="preserve">
+    <value>リリースストリーム</value>
+  </data>
+  <data name="release_stream_stable" xml:space="preserve">
+    <value>安定放出</value>
+  </data>
+  <data name="release_stream_beta" xml:space="preserve">
+    <value>ベータ (不安定)</value>
+  </data>
 </root>
