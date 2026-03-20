@@ -733,4 +733,13 @@
   <data name="discord_not_installed" xml:space="preserve">
     <value>Discord가 설치되어 있지 않았어요. Discord를 설치하여 친구들한테 활동을 공유하세요!</value>
   </data>
+  <data name="release_stream" xml:space="preserve">
+    <value>업데이트 흐름</value>
+  </data>
+  <data name="release_stream_stable" xml:space="preserve">
+    <value>안정 빌드</value>
+  </data>
+  <data name="release_stream_beta" xml:space="preserve">
+    <value>베타 (불안정)</value>
+  </data>
 </root>
