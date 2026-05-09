@@ -772,4 +772,7 @@
   <data name="download_completed" xml:space="preserve">
     <value>ダウンロードが完了しました。</value>
   </data>
+  <data name="ui_font" xml:space="preserve">
+    <value>ユーザーインターフェースのフォント</value>
+  </data>
 </root>

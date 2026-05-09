@@ -775,7 +775,7 @@
   <data name="download_completed" xml:space="preserve">
     <value>다운로드가 완료되었습니다.</value>
   </data>
-  <data name="profile_image_tooltip_disabled" xml:space="preserve">
-    <value>{0} • 구독자 {1}명</value>
+  <data name="ui_font" xml:space="preserve">
+    <value>사용자 인터페이스 글꼴</value>
   </data>
 </root>
