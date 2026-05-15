@@ -775,4 +775,7 @@
   <data name="ui_font" xml:space="preserve">
     <value>ユーザーインターフェースのフォント</value>
   </data>
+  <data name="translating" xml:space="preserve">
+    <value>翻訳中···</value>
+  </data>
 </root>
