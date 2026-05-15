@@ -778,4 +778,7 @@
   <data name="ui_font" xml:space="preserve">
     <value>사용자 인터페이스 글꼴</value>
   </data>
+  <data name="translating" xml:space="preserve">
+    <value>번역 중...</value>
+  </data>
 </root>
