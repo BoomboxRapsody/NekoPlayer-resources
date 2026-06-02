@@ -119,7 +119,7 @@
     <value>동영상 불러오기</value>
   </data>
   <data name="master_volume" xml:space="preserve">
-    <value>마스터 음량 (비디오, 효과음 모두 포함)</value>
+    <value>마스터 음량</value>
   </data>
   <data name="minimise_on_focus_loss" xml:space="preserve">
     <value>다른 앱으로 전환할 때 동영상 플레이어 창을 최소화하기</value>
@@ -351,7 +351,7 @@
     <value>최신 버전 모두 보기</value>
   </data>
   <data name="report" xml:space="preserve">
-    <value>신고</value>
+    <value>동영상 신고</value>
   </data>
   <data name="whats_going_on" xml:space="preserve">
     <value>어떤 문제인가요?</value>
@@ -780,5 +780,8 @@
   </data>
   <data name="translating" xml:space="preserve">
     <value>번역 중...</value>
+  </data>
+  <data name="video_metadata_desc_with_likecount" xml:space="preserve">
+    <value>{0} • 좋아요 {1}개  • 조회수 {2}회 • {3}</value>
   </data>
 </root>

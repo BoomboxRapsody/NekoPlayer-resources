@@ -351,7 +351,7 @@
     <value>最新バージョンを表示</value>
   </data>
   <data name="report" xml:space="preserve">
-    <value>レポート</value>
+    <value>レポートビデオ</value>
   </data>
   <data name="whats_going_on" xml:space="preserve">
     <value>何が起きているのか？</value>
@@ -777,5 +777,8 @@
   </data>
   <data name="translating" xml:space="preserve">
     <value>翻訳中···</value>
+  </data>
+  <data name="video_metadata_desc_with_likecount" xml:space="preserve">
+    <value>{0} • {1} 好き • {2} 回視聴 • {3}</value>
   </data>
 </root>
