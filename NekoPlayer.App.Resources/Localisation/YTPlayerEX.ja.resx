@@ -781,4 +781,7 @@
   <data name="video_metadata_desc_with_likecount" xml:space="preserve">
     <value>{0} • {1} 好き • {2} 回視聴 • {3}</value>
   </data>
+  <data name="show_video_metadata_on_window_title" xml:space="preserve">
+    <value>ウィンドウタイトルにビデオメタデータを表示します</value>
+  </data>
 </root>
